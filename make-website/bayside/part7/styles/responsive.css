@@ -188,7 +188,7 @@ header {
     overflow: hidden;
 }
 #hero p {
-	width: 305px;
+	width: 36%;
 	padding-left: 25px;
 	padding-right: 25px;
 	padding-top: 20px;
@@ -196,10 +196,8 @@ header {
 	color: white;
 	border-width: 5px;
 	border-style: solid;
-	top: 6px;
-	right: 639px;
-	background-color: rgba(0, 0, 0, 0.5);
-	height: 249px;
+	top: 90px;
+	right: 33px;
 }
 #hero {
 	position: relative;
